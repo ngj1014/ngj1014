@@ -7,7 +7,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngj1014&theme=tokyonight&show_icons=true)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={ngj1014})](https://solved.ac/{ngj1014})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={ngj1014@naver.com})](https://solved.ac/{ngj1014@naver.com})
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white)
